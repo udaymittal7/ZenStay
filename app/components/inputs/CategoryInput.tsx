@@ -22,8 +22,8 @@ const CategoryInput: React.FC<CategoryInputProps> = ({
       className={clsx({
         'rounded-xl border-2 p-4 flex flex-col gap-3 hover:border-black transition cursor-pointer':
           true,
-        'border-b-neutral-800 text-neutral-800': selected,
-        'border-transparent text-neutral-500': !selected,
+        'border-black': selected,
+        'border-neutral-200': !selected,
       })}
     >
       <Icon size={30} />
