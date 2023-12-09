@@ -1,6 +1,8 @@
 # ZenStay: Your tranquil haven for peaceful and mindful travel experiences.
 
-Tech Stack:
+<img width="1440" alt="image" src="https://github.com/udaymittal7/ZenStay/assets/72199778/582f5c6a-9de9-4e2a-8b73-4a251b0b4bc7">
+
+## Tech Stack:
 
 - Next.js 14 App Router
 - React
@@ -9,7 +11,7 @@ Tech Stack:
 - MongoDB
 - NextAuth 2023
 
-Features:
+## Features:
 
 - Tailwind design
 - Tailwind animations and effects
